@@ -17,8 +17,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/informatika', function () {
-    return "saya orang informatika";
+Route::get('/index' , function () {
+    return view('home');
 });
 
 Route::get('/elektro', function () {
