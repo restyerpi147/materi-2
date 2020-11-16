@@ -3,7 +3,7 @@
       <!-- Messages Dropdown Menu -->
       <li class="nav-item dropdown">
         <a class="nav-link" data-toggle="dropdown" href="#">
-          Muhammad Widi Arrohman
+          Erpi Resty Utari
           <img src="{{url('public')}}/dist/img/user1-128x128.jpg" alt="User Avatar" style="height: 100%" class="img-circle">
         </a>
         <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">

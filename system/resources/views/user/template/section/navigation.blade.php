@@ -8,7 +8,7 @@
 
           <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
-              <li class="nav-item active"><a href="{{ url('home')}}" class="nav-link">Beranda</a></li>
+              <li class="nav-item active"><a href="{{ url('/')}}" class="nav-link">Beranda</a></li>
               <li class="nav-item dropdown">
 
            <li class="nav-item dropdown">
