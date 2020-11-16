@@ -5,5 +5,5 @@
       Anything you want
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2020 @if(date("Y") > '2020') - {{date("Y")}} @endif <a href="https://politap.ac.id">TOKOPAKWIDI</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2020 @if(date("Y") > '2020') - {{date("Y")}} @endif <a href="https://politap.ac.id">Restaurant 24</a>.</strong> All rights reserved.
   </footer>
