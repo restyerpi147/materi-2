@@ -33,11 +33,3 @@ Route::get('/menu' , function () {
     return view('menu');
 });
 
-Route::get('/concact' , function () {
-    return view('contact');
-});
-
-Route::get('/login' , function () {
-    return view('login');
-});
-
