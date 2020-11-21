@@ -14,13 +14,30 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::get('/index' , function () {
     return view('home');
 });
 
-Route::get('/elektro', function () {
-    return "saya orang elektro";
+Route::get('/home', function () {
+    return view('home');
 });
+
+Route::get('about', function () {
+    return view('about');
+});
+
+Route::get('/ti', function () {
+    return view('ti');
+});
+
+Route::get('/menu' , function () {
+    return view('menu');
+});
+
+Route::get('/concact' , function () {
+    return view('contact');
+});
+
+Route::get('/login' , function () {
+    return view('login');
+});
+
